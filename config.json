@@ -1,1 +1,0 @@
-{"device": "mps", "num_epochs_base": 30, "num_epochs_naive_retraining": 30, "num_epochs_negrad": 2, "num_epochs_unsir": 2, "num_checkpoints": 10, "checkpoint_repair_epochs": 2, "init_learning_rate": 0.001,"num_epochs_BadTeachingUnlearning": 10}
